@@ -1,0 +1,1 @@
+ResNet model implementation with modifications taken from kuangliu's [repo](https://github.com/kuangliu/pytorch-cifar/blob/master/models/resnet.py).
